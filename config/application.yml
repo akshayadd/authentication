@@ -1,0 +1,15 @@
+#
+## Database Secrets
+#
+database_adapter: 'mysql2'
+database_encoding: 'utf8'
+database_pool: '5'
+database_name: 'authentication_development'
+database_username: 'root'
+database_password: 'root'
+database_host: 'localhost'
+
+#
+## Secret Key
+#
+secret_key_base: a77349dd7f9b1ab42c88ba5266fa4681b339461e755627bd0e27821d79c705de9615e66f0b0c46331230d010a3a9fb4b268ab8d7062d37d23a6d1cd1c3a83b12
